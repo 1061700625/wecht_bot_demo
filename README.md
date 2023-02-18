@@ -5,5 +5,6 @@
 
 比较粗糙，上传做个备份。。。    
 
+微信要装3.3.0.115版本，其他都不行。    
 
-[微信老旧版本大全](https://www.wandoujia.com/apps/596157/history)
+[微信老旧版本大全](https://www.wandoujia.com/apps/596157/history)    
